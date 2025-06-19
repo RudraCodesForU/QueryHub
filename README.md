@@ -4,7 +4,7 @@ Welcome to **QueryHub**!
 Your one-stop solution for generating powerful SQL queries in real time for any kind of database.  
 Transform your workflow and supercharge your productivity with QueryHub! ✨
 
-# Live Test SS- ![Description](images/your-image.png)
+# Live Test SS- ![Description](Livedemo.png)
 
 ## 🌟 Features
 
