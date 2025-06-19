@@ -25,3 +25,11 @@ Transform your workflow and supercharge your productivity with QueryHub! ✨
 1. **Clone the repo**  
    ```bash
    git clone https://github.com/RudraCodesForU/QueryHub.git
+   
+2. **Install dependencies**
+```bash
+npm install
+npm run dev
+
+## Running at :
+😍 || https://localhost:8080
